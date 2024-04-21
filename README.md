@@ -2,7 +2,7 @@
 
 **Introduction**
 
-YouTube Data Analyrics is a project aimed at developing a user-friendly Streamlit application that leverages the power of the Google API to extract valuable information from YouTube channels. The extracted data is then stored in a Pandas DataFrame, subsequently migrated to a SQL data warehouse, and made accessible for analysis and exploration within the Streamlit app.
+YouTube Data Analytics is a project aimed at developing a user-friendly Streamlit application that leverages the power of the Google API to extract valuable information from YouTube channels. The extracted data is then stored in a Pandas DataFrame, subsequently migrated to a SQL data warehouse, and made accessible for analysis and exploration within the Streamlit app.
 
 **Table of Contents**
 
