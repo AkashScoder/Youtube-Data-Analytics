@@ -1,0 +1,4 @@
+googleapiclient.discovery==2.91.0
+pandas==2.2.2
+sqlalchemy==2.0.29
+streamlit==1.33.0
