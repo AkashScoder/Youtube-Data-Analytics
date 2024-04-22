@@ -38,7 +38,7 @@ pip install streamlit
 
 To use this project, follow these steps:
 
-1. Clone the repository: ```git clone https://github.com/AkashScoder/Youtube-Data-Analytics.git```
+1. Clone the repository: ```gh repo clone AkashScoder/Youtube-Data-Analytics```
 2. Install the required packages: ```pip install -r requirements.txt```
 3. Run the Streamlit app: ```streamlit run my_application.py```
 4. Access the app in your browser at ```http://localhost:8501```
