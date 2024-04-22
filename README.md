@@ -54,7 +54,7 @@ To use this project, follow these steps:
 
 **Retrieving data from the YouTube API**
 
-The project utilizes the Google API to retrieve comprehensive data from YouTube channels. The data includes information on channels, playlists, videos, and comments. By interacting with the Google API, we collect the data and merge it into a JSON file.
+The project utilizes the Google API to retrieve comprehensive data from YouTube channels. The data includes information on channels, playlists, videos, and comments. By interacting with the Google API, we collect the data and merge it into a list.
 
 **Storing data in Pandas Dataframe**
 
@@ -72,7 +72,7 @@ The project provides comprehensive data analysis capabilities using  Streamlit.
 
 - **Video Analysis:** Video analysis focuses on views, likes, comments, and durations, enabling both an overall channel and specific channel perspectives. Gain a deep understanding of the videos in a playlist
 
-- **Comment Analysis:** Comment analysis focuses on comment ID, comment_text, comment_Published date. Gain understanding of the video.
+- **Comment Analysis:** Comment analysis focuses on comment ID, comment_text, comment_Published date. Gain understanding of the video impact.
 
 The Streamlit app provides an intuitive interface to  to focus on specific aspects of the analysis.
 
